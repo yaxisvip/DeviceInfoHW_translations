@@ -148,7 +148,7 @@
     <string name="light">環境光傳感器</string>
     <string name="pressure">氣壓表</string>
 
-    <string name="no_input_data">No data from sensor</string>
+    <string name="no_input_data">無感測器數據</string>
 
     <string name="unit_accelerometer">m/s²</string>
     <string name="unit_light">lx</string>
@@ -158,17 +158,17 @@
     <string name="unit_pressure">mbar</string>
     <string name="unit_pressure_mm">mm Hg</string>
 
-    <string name="s_name">Name:</string>
-    <string name="s_vendor">Vendor:</string>
-    <string name="s_version">Version:</string>
-    <string name="s_max_range">Max range:</string>
-    <string name="s_resolution">Resolution:</string>
-    <string name="s_power">Power:</string>
-    <string name="s_unit">Unit:</string>
+    <string name="s_name">名稱:</string>
+    <string name="s_vendor">供應商:</string>
+    <string name="s_version">版本:</string>
+    <string name="s_max_range">最大範圍:</string>
+    <string name="s_resolution">尺寸:</string>
+    <string name="s_power">功耗:</string>
+    <string name="s_unit">組織:</string>
 
-    <string name="unsupported">unsupported</string>
+    <string name="unsupported">不支持</string>
 
-    <string name="total_sensors">Total:</string>
+    <string name="total_sensors">總計:</string>
 
     <!-- Memory -->
 
@@ -334,16 +334,16 @@
     <string name="pref_title_temp_in_f_deg">溫度以 &#xb0;F為單位</string>
     <string name="pref_description_temp_in_f_deg">以華氏度顯示溫度</string>
 
-    <string name="pref_title_detect_therm_zones">檢測熱區</string>
-    <string name="pref_description_detect_therm_zones">檢測熱區名稱 (root)</string>
+    <string name="pref_title_detect_therm_zones">檢測溫控</string>
+    <string name="pref_description_detect_therm_zones">檢測溫控名稱 (root)</string>
 
     <!-- Strings related to Message of first install -->
 
     <string name="first_install_title">信息</string>
 
-    <string name="root_hw_detect">In new versions of android, some information is blocked,
-        if you have root access, you can enable it in the settings.
-        More details will be available.</string>
+    <string name="root_hw_detect">在新版的Android中，某些信息被禁止读取,
+        如果您具有Root用户访问权限，则可以在设置中启用它.
+        将提供更多详细信息.</string>
 
     <!-- Defender -->
     <string name="app_defender">App Defender</string>
