@@ -161,7 +161,7 @@
     <string name="s_name">名称:</string>
     <string name="s_vendor">供应商:</string>
     <string name="s_version">版本:</string>
-    <string name="s_max_range">最大范围 range:</string>
+    <string name="s_max_range">最大范围:</string>
     <string name="s_resolution">尺寸:</string>
     <string name="s_power">功耗:</string>
     <string name="s_unit">单位:</string>
@@ -334,8 +334,8 @@
     <string name="pref_title_temp_in_f_deg">温度以 &#xb0;F为单位</string>
     <string name="pref_description_temp_in_f_deg">以华氏度显示温度</string>
 
-    <string name="pref_title_detect_therm_zones">检测热区</string>
-    <string name="pref_description_detect_therm_zones">检测热区名称 (root)</string>
+    <string name="pref_title_detect_therm_zones">检测温控</string>
+    <string name="pref_description_detect_therm_zones">检测温控名称 (root)</string>
 
     <!-- Strings related to Message of first install -->
 
